@@ -1,1 +1,1 @@
-# guess-the-number-name
+# guess-the-number-game
